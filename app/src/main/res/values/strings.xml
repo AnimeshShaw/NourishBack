@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Food4All Foundation</string>
+    <string name="topbar_msg">Food4All - Donate and Serve</string>
+    <string name="contact_det">Contact</string>
+    <string name="phone_no">: +91 900 000 0000</string>
+    <string name="location">: Pune, Maharashtra</string>
+    <string name="email">care@food4all.com</string>
+    <string name="desc_det">Description</string>
+    <string name="desc">We feed <b>>1k</b> children Everyday. Your 1$ can save a life. <i><b>Donate Today!</b></i></string>
+</resources>
